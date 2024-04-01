@@ -21,8 +21,8 @@ body {
   resize: none;
   outline: none;
   font-size: 16px;
-  background-color: #354655;
-  color: grey;
+  background-color: #000;
+  color: white;
 }
 
 #divider {
@@ -60,7 +60,7 @@ iframe {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #d8dee7;
+  background-color: #ccc;
   padding: 0 20px;
 }
 
@@ -71,4 +71,5 @@ iframe {
   background: url("https://img.icons8.com/material-rounded/24/000000/full-screen.png")
   center center no-repeat;
   background-size: contain;
+  color: #000;
 }
